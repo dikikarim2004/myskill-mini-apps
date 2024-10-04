@@ -7,15 +7,7 @@ export function TopBanner() {
         <div className="flex items-center space-x-2">
           <AlertTriangle className="h-5 w-5 flex-shrink-0" />
           <span className="font-medium text-sm sm:text-base text-black">
-            Check out the{" "}
-            <a
-              target="blank"
-              href="https://aptos.dev/en/build/create-aptos-dapp/templates/clicker-game-tg-mini-app"
-              style={{ color: "white", textDecoration: "underline" }}
-            >
-              template docs
-            </a>
-            {" "}to get started.
+          helping people who have skills but are still unemployed to be easily recruited by industry
           </span>
         </div>
         <div className="ml-4 flex-shrink-0"></div>
